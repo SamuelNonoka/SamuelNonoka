@@ -3,11 +3,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Meu nome é Samuel. Sou engenheiro de software e trabalho há mais de cinco anos com desenvolvimento de softwares e aplicações para web. Com vasta experiência em tecnologias voltadas para o front-end/mobile e back-end. E passagem por diversas empresas e projetos.
+  Meu nome é Samuel. Sou engenheiro de software e trabalho há mais de cinco anos com desenvolvimento de softwares e aplicações para web. Com vasta experiência em tecnologias voltadas para o front-end/mobile e back-end. Com passagem por diversas empresas e projetos.
 </p>
 
 <p align="left"> 
- Confesso que meu linkedin está um pouco desatualizado de conteúdos (nos últimos anos trabalhei mais em projetos privados para empresas e como freelancer), mas nos próximos dias estarei atualizando-o projetos feitos para desafios, cursos e testes.
+ Confesso que meu Github está um pouco desatualizado de conteúdos (nos últimos anos trabalhei mais em projetos privados para empresas e como freelancer), mas nos próximos dias estarei atualizando-o com projetos feitos para desafios, cursos e testes.
 </p>
 
 ## Sobre tecnologias
