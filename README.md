@@ -11,13 +11,13 @@
   🦄 <strong>Tecnologias:</strong> 
   
   <ul>
+    <li>AI | SDD | Hardness</li>
     <li>Javascript | Typescript</li>
-    <li>Vuejs | Nuxtjs</li>
+    <li>Vuejs | Nuxtjs | Angular | React</li>
     <li>Nodejs | Nestjs</li>
     <li>Laravel | PHP</li>
     <li>Docker</li>
     <li>AWS</li>
-    <li>AI | SDD | Hardness</li>
     <li>DDD | Clean Architecture | Hexagonal Architecture</li>
     <li>SOLID | Clean Code | POO | Design Patterns</li>
     <li>CI | CD</li>
