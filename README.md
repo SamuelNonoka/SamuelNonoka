@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, meu nome é Samuel. Sou engenheiro de software com vasta experiência em desenvolvimento de softwares e aplicações para web, utilizando abordagens de frontend e backend.
+  Olá, meu nome é Samuel. Sou engenheiro de software sênior com vasta experiência em desenvolvimento de softwares e aplicações para web, utilizando abordagens de frontend e backend.
 </p>
 
 ## Sobre tecnologias
@@ -17,6 +17,7 @@
     <li>Laravel | PHP</li>
     <li>Docker</li>
     <li>AWS</li>
+    <li>AI | SDD | Hardness</li>
     <li>DDD | Clean Architecture | Hexagonal Architecture</li>
     <li>SOLID | Clean Code | POO | Design Patterns</li>
     <li>CI | CD</li>
